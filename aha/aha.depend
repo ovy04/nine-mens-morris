@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543865883 source:g:\info\aha\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<cmath>
+
